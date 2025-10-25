@@ -1,7 +1,5 @@
 WinRate ()
 
-
-
 function WinRate(a, b){ //winrate = victory(A) - Loses(B)
     return a-b;
 }
